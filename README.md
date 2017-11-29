@@ -51,5 +51,7 @@ Timeouts imposed on all tests; at least 5 seconds to guess each target, regardle
 
 # Results
 Final Mark: 100%
+
 Correctness: 70/70 || Code style: 30/30
+
 See Feedback.txt for a full description of the results.
