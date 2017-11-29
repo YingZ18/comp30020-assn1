@@ -47,7 +47,7 @@ The game finishes once the performer guesses the correct chord (all three pitche
 
 # Assessment
 Full marks were given for an average of 4.3 guesses per target, with marks falling on a logarithmic scale as the number of guesses rises. Thus moving from taking 5 guesses to 4 will gain similar number of points as going from 7 to 5 guesses. Therefore as the number of guesses drops, further small decreases in the number of guesses are increasingly valuable.
-Note that timeouts will be imposed on all tests. You will have at least 5 seconds to guess each target, regardless of how many guesses are needed. Executions taking longer than that may be unceremoniously terminated, leading to that test being assessed as failing. Your programs will be compiled with GHC -O2 before testing, so 5 seconds per test is a very reasonable limit.
+Timeouts imposed on all tests; at least 5 seconds to guess each target, regardless of how many guesses are needed. Executions taking longer than that were unceremoniously terminated, leading to that test being assessed as failing.
 
 # Results
 Final Mark: 100%
