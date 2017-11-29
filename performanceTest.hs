@@ -76,11 +76,9 @@ loop target guess other guesses
 
 
 
------------------- AVERAGE SCORE (Execution time) ------------------------
--- Current Average Score = 4.207518796992481
--- Current Average Score = 4.208270676691729
+------------------------------- AVERAGE SCORE -------------------------------
 -- Current Average Score = 4.209022556390978
--- Compiling, then performed in: 9:58:35 - 9:59:27 = 52 secs
+-- Compiled and performed all possible guesses in 52 secs.
 -- TO USE:
 -- (1) ghc performanceTest
 -- (2) ./performanceTest
